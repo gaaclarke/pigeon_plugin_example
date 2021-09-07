@@ -1,7 +1,7 @@
 import 'package:pigeon/pigeon.dart';
 
 class Version {
-  String string;
+  String? string;
 }
 
 @HostApi()
